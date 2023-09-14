@@ -2,7 +2,7 @@
   
 cd
 rm -rf AUTORUN-CCMINER-BANK
-git clone https://github.com/pichetx/AUTORUN-CCMINER-BANK 
+git clone https://github.com/Boon-yalit/AUTORUN-CCMINER-BANK 
 cd ../etc/mobile-mining/set-miner
 cp -r online.json offline.json /../root/AUTORUN-CCMINER-BANK/mobile-mining/set-miner
 cd
@@ -10,8 +10,8 @@ cd ../etc
 rm -rf mobile-mining 
 cd
 cd ../bin
-rm -rf add-ip edit-miner run-miner make-file
+rm -rf add-ip edit-miner run-miner
 cd
-cd AUTORUN-CCMINER-X 
+cd AUTORUN-CCMINER-BANK
 chmod +x setupdate.sh
 sh setupdate.sh
