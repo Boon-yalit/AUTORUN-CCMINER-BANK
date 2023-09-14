@@ -2,7 +2,7 @@
   
  cd
  rm -rf AUTORUN-CCMINER-BANK
- git clone https://github.com/pichetx/AUTORUN-CCMINER-BANK1.2
+ git clone https://github.com/Boon-yalit/AUTORUN-CCMINER-BANK1.2
  cd ../etc/mobile-mining/set-miner
  cp -r online.json offline.json /../root/AUTORUN-CCMINER-BANK1.2/mobile-mining/set-miner 
  cd
